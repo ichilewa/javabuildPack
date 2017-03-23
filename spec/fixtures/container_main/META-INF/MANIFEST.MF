@@ -1,2 +1,2 @@
-Main-Class: test-main-class
-Class-Path: alpha.jar bravo.jar charlie.jar
+Main-Class: invmgmt.cim.client.cimengine.CIMEngine
+Class-Path: ./dist/lib/CIMEngine.jar ./dist/lib/dom4j-full.jar ./dist/lib/sqljdbc42.jar
